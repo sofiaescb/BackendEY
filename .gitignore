@@ -2,8 +2,10 @@
 bin/
 obj/
 out/
-
+publish/
 .vs/
+
+
 *.user
 *.suo
 *.userosscache
@@ -37,3 +39,20 @@ npm-debug.log
 yarn-error.log
 
 *.orig
+
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.db
+*.mdb
+*.bak
+
+*.tmp
+*.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+
