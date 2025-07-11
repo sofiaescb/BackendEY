@@ -96,6 +96,8 @@ GET /api/screening?Fuente=ofac&Proveedor=NombreEmpresa
 
 #### Postman:
 <img width="1359" height="870" alt="image" src="https://github.com/user-attachments/assets/c2713b32-6d26-4e5d-8f6c-75d67d4ba8be" />
+<img width="1365" height="964" alt="image" src="https://github.com/user-attachments/assets/c6222354-5f41-42da-87c4-accc61808ca6" />
+
 
 ---
 
