@@ -14,6 +14,14 @@ Este proyecto consiste en una API REST desarrollada con .NET 8 que permite:
 - Middleware de autenticación por token (solo para `/api/screening`)
 
 ## 🚀 Instrucciones para desplegar la solución
+Esta API ha sido desplegada exitosamente en un entorno accesible desde:
+```
+http://13.222.89.27:8080
+```
+
+Se pueden probar los endpoints directamente en esa dirección, sin necesidad de ejecutarlo localmente.
+
+Sin embargo, también se puede ejecutar localmente siguiendo los pasos a continuación:
 
 ### 1. Clonar el repositorio
 
