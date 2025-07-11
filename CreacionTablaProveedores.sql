@@ -1,3 +1,11 @@
+-- Crear la base de datos si no existe
+IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = 'EY')
+BEGIN
+    CREATE DATABASE EY;
+END
+GO
+
+-- Seleccionar la base de datos
 use EY;
 GO
 
