@@ -13,7 +13,10 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowReactDevClient",
         policy =>
         {
-            policy.WithOrigins("http://3.85.36.85")
+            policy.WithOrigins(
+                        "http://localhost:5173",
+                        "http://13.222.89.27"  
+                    )
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });

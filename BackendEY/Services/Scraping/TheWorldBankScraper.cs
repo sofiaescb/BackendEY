@@ -44,7 +44,6 @@ namespace BackendEY.Services.Scraping
                         resultados.Add(new Dictionary<string, string>
                         {
                             ["FirmName"] = firmName,
-                            ["Additional"] = cells[1].Text.Trim(),
                             ["Address"] = cells[2].Text.Trim(),
                             ["Country"] = cells[3].Text.Trim(),
                             ["FromDate"] = FormatearFecha(cells[4].Text.Trim()),
