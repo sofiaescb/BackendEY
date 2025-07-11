@@ -106,13 +106,14 @@ GET /api/screening?Fuente=ofac&Proveedor=NombreEmpresa
 POST /api/proveedores
 ```
 <img width="1356" height="885" alt="image" src="https://github.com/user-attachments/assets/be9dc6b5-1b82-4fe4-82ef-4f5282eff36c" />
-
+<img width="1365" height="840" alt="image" src="https://github.com/user-attachments/assets/0c0efdd4-176c-43ce-a8d4-63033c61e454" />
 
 #### Obtener todos
 ```
 GET /api/proveedores
 ```
 <img width="1355" height="862" alt="image" src="https://github.com/user-attachments/assets/0c685c09-ece3-49bc-b6b1-34244a02b36d" />
+<img width="1368" height="950" alt="image" src="https://github.com/user-attachments/assets/0735a864-000c-4307-a521-82f965c4ebb8" />
 
 
 #### Obtener por ID
@@ -120,6 +121,7 @@ GET /api/proveedores
 GET /api/proveedores/{id}
 ```
 <img width="1369" height="557" alt="image" src="https://github.com/user-attachments/assets/bd65b2b1-2ac1-4b48-b501-09206949fdfa" />
+<img width="1361" height="650" alt="image" src="https://github.com/user-attachments/assets/16c90d28-2a7b-49cd-9b70-873b08db24d3" />
 
 
 #### Editar proveedor
